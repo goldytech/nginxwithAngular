@@ -1,0 +1,7 @@
+my-app/node_modules
+Api/customer-api/bin
+Api/customer-api/published
+Api/orders-api/bin
+Api/orders-api/published
+Api/orders-api/obj
+Api/customer-api/obj
